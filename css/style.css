@@ -25,6 +25,11 @@ body
     color: #777;
 }
 
+.linkcolor
+{
+    color: orange;
+}
+
 .underline
 {
     display: inline-block;
